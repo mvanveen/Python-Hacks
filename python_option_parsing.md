@@ -1,7 +1,3 @@
-----
-title:  Option Parsing In Python
-format: post
------
 
 Adding Options
 ==============
